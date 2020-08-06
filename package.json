@@ -1,0 +1,21 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Oleksandr Kovpashko <o.kovpashko@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.2.2"
+  },
+  "jest": {
+
+  }
+}
