@@ -13,9 +13,12 @@
   "author": "Oleksandr Kovpashko <o.kovpashko@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "jest": "^26.2.2"
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel-jest": "^26.2.2",
+    "jest": "^26.2.2",
+    "react": "^16.13.1",
+    "react-test-renderer": "^16.13.1"
   },
-  "jest": {
-
-  }
+  "jest": {}
 }

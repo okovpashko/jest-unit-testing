@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshots React component 1`] = `
+<a
+  className="my-link"
+  href="http://www.facebook.com"
+  target="_self"
+>
+  Facebook
+</a>
+`;
+
+exports[`Snapshots objects 1`] = `
+Object {
+  "email": "bill2example.com",
+  "gender": "male",
+  "phone": "+12345678",
+}
+`;
